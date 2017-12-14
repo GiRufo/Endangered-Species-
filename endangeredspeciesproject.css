@@ -1,0 +1,70 @@
+/*
+* Programmer Name
+* Date
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+	margin: 0;
+	padding:0;
+}
+
+.topimg {float: left;
+         height: 250px; 
+	     width: 250px;
+	     margin: .5px;
+	     padding: 20px;}
+	
+.secimg{height: 150px; 
+	width: 180px;
+	margin: .5px;
+	padding: 3px;}
+	
+.thirdimg{height: 150px; 
+		  width: 180px;
+		  margin: .5px;
+		  padding: 3px;}
+	
+.fourimg{height: 150px; 
+	     width: 180px; 
+		margin: .5px;
+		padding: 3px;}
+		
+.fiveimg{height: 150px; 
+	    width: 180px;
+	    margin: .5px;}
+	
+.siximg{height: 150px; 
+	   width: 180px;
+	   margin: .5px;
+	   padding: 3px; 
+	   }
+	   
+.sevenimg{float: right;
+		  margin: .5px;
+	     padding: 20px;}
+/* Put body attributes here */
+
+body {background-color: white;
+		font-family: Arial, Helvetica, sans-serif;
+		width: 950px;
+		margin: auto;
+}
+h3{
+		font size: 200%;
+		font-style: normal;
+		font-weight: 0%;
+		color: sienna;}
+		
+h1{
+	font size: 200%;
+	font-style: normal;
+	font-weight: 0%;
+	color: goldenrod;}
+
+
+	
+	
